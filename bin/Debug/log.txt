@@ -1,0 +1,600 @@
+﻿2015/8/18
+Magic City Beverage Co   has some Unkonwn errors.
+CustomerID:   	219
+username:      	BAK73360
+oldpassword: 	BK1973
+
+2015/8/18
+Magic City Beverage Co   has some Unkonwn errors.
+CustomerID:   	219
+username:      	BAK73360
+oldpassword: 	BK1973
+
+2015/8/18
+Magic City Beverage Co   has some Unkonwn errors.
+CustomerID:   	219
+username:      	BAK73360
+oldpassword: 	BK1973
+
+2015/8/18
+Central Distributors Inc (TN) Central:  基础连接已经关闭: 接收时发生错误。
+CustomerID:   	197
+username:      	encompass54139
+oldpassword: 	tbp250598
+
+2015/8/18
+Clare Rose  操作超时
+CustomerID:   	202
+username:      	CRISupport
+oldpassword: 	tbp350355
+
+2015/8/18
+City Beverage Company, Inc  操作超时
+CustomerID:   	193
+username:      	11538
+oldpassword: 	811cty5
+
+2015/8/19
+Flint Hills Beverage Osage:  's password has expired and will be set a new as 'Smm8850'.
+CustomerID:   	187
+username:      	enc01563
+oldpassword: 	Smmr11
+
+2015/8/19
+Flint Hills Beverage Osage:   add customer note sucessfully.
+CustomerID:   	187
+username:      	enc01563
+oldpassword: 	Smm8850
+
+2015/8/20
+Konrad Beverage Company   has some Unkonwn errors.
+CustomerID:   	223
+username:      	Kf22930
+oldpassword: 	32PYTRWQ
+
+2015/8/21
+Konrad Beverage Company   has some Unkonwn errors.
+CustomerID:   	223
+username:      	Kf22930
+oldpassword: 	32PYTRWQ
+
+2015/8/22
+Konrad Beverage Company   has some Unkonwn errors.
+CustomerID:   	223
+username:      	Kf22930
+oldpassword: 	32PYTRWQ
+
+2015/8/24
+Konrad Beverage Company   has some Unkonwn errors.
+CustomerID:   	223
+username:      	Kf22930
+oldpassword: 	65LKJHGFDS
+
+2015/8/24
+Beal Distributing  's password has expired and will be set a new as 'tbp1910'.
+CustomerID:   	173
+username:      	enc04091
+oldpassword: 	tbp250257
+
+2015/8/24
+Beal Distributing   add customer note sucessfully.
+CustomerID:   	173
+username:      	enc04091
+oldpassword: 	tbp1910
+
+2015/8/24
+Konrad Beverage Company   has some Unkonwn errors.
+CustomerID:   	223
+username:      	Kf22930
+oldpassword: 	65LKJHGFDS
+
+2015/8/25
+Konrad Beverage Company   has some Unkonwn errors.
+CustomerID:   	223
+username:      	Kf22930
+oldpassword: 	65LKJHGFDS
+
+2015/8/26
+Konrad Beverage Company   has some Unkonwn errors.
+CustomerID:   	223
+username:      	Kf22930
+oldpassword: 	65LKJHGFDS
+
+2015/8/27
+Konrad Beverage Company   has some Unkonwn errors.
+CustomerID:   	223
+username:      	Kf22930
+oldpassword: 	65LKJHGFDS
+
+2015/8/28
+Konrad Beverage Company   has some Unkonwn errors.
+CustomerID:   	223
+username:      	Kf22930
+oldpassword: 	65LKJHGFDS
+
+2015/8/31
+Konrad Beverage Company   has some Unkonwn errors.
+CustomerID:   	223
+username:      	Kf22930
+oldpassword: 	65LKJHGFDS
+
+2015/8/31
+Konrad Beverage Company   has some Unkonwn errors.
+CustomerID:   	223
+username:      	Kf22930
+oldpassword: 	65LKJHGFDS
+
+2015/9/1
+Konrad Beverage Company   has some Unkonwn errors.
+CustomerID:   	223
+username:      	Kf22930
+oldpassword: 	65LKJHGFDS
+
+2015/9/14
+King Beverage  's password has expired and will be set a new as 'tbp4437'.
+CustomerID:   	172
+username:      	Encompass
+oldpassword: 	tbp2502553
+
+2015/9/14
+Strathman Sales Company, Inc.  's password has expired and will be set a new as 'tbp6694'.
+CustomerID:   	188
+username:      	DM01583
+oldpassword: 	tbp250257
+
+2015/9/14
+King Beverage   adds customer note failed.
+CustomerID:   	172
+username:      	Encompass
+oldpassword: 	tbp4437
+
+2015/9/14
+Strathman Sales Company, Inc.   adds customer note failed.
+CustomerID:   	188
+username:      	DM01583
+oldpassword: 	tbp6694
+
+2015/9/15
+Eagle Sales of the Black Hills  Rapid City   has some Unkonwn errors.
+CustomerID:   	195
+username:      	ds94073
+oldpassword: 	tbp250253
+
+2015/9/17
+A&B Distributors  未能解析此远程名称: 'www.budnet.com'
+CustomerID:   	236
+username:      	pp20359
+oldpassword: 	budweiser
+
+2015/9/17
+Clarke Distributors White Mountain:   has some Unkonwn errors.
+CustomerID:   	184
+username:      	dmarois
+oldpassword: 	pqrst2
+
+2015/9/26
+Capitol Beverage Sales LP (MN)x   has some Unkonwn errors.
+CustomerID:   	220
+username:      	Barry2
+oldpassword: 	dfYk3s3
+
+2015/9/26
+Central Distributors Inc (TN) Central:   has some Unkonwn errors.
+CustomerID:   	197
+username:      	encompass54139
+oldpassword: 	tbp250598
+
+2015/9/26
+Flint Hills Beverage Manhattan:   has some Unkonwn errors.
+CustomerID:   	187
+username:      	enc91541
+oldpassword: 	xyz3287
+
+2015/9/26
+Flint Hills Beverage Manhattan:   has some Unkonwn errors.
+CustomerID:   	187
+username:      	enc91541
+oldpassword: 	xyz456
+
+2015/9/27
+Central Distributors Inc (TN) Central:  操作超时
+CustomerID:   	197
+username:      	encompass54139
+oldpassword: 	tbp6998
+
+2015/9/27
+City Beverage Company, Inc  操作已超时。
+CustomerID:   	193
+username:      	11538
+oldpassword: 	811cty5
+
+2015/9/27
+Flint Hills Beverage Manhattan:   has some Unkonwn errors.
+CustomerID:   	187
+username:      	enc91541
+oldpassword: 	xyz456
+
+2015/9/27
+Magic City Beverage Co  操作超时
+CustomerID:   	219
+username:      	BAK73360
+oldpassword: 	BK8173
+
+2015/9/27
+McDonald Distributing  操作已超时。
+CustomerID:   	218
+username:      	enc52223
+oldpassword: 	218164
+
+2015/9/27
+A&B Distributors  操作超时
+CustomerID:   	236
+username:      	pp20359
+oldpassword: 	budweiser
+
+2015/9/27
+A&B Distributors  基础连接已经关闭: 连接被意外关闭。
+CustomerID:   	236
+username:      	pp23559
+oldpassword: 	budweiser
+
+2015/9/27
+A&B Distributors  操作超时
+CustomerID:   	236
+username:      	pp20359
+oldpassword: 	budweiser
+
+2015/9/27
+A&B Distributors  操作超时
+CustomerID:   	236
+username:      	pp23559
+oldpassword: 	budweiser
+
+2015/9/27
+King Beverage  操作超时
+CustomerID:   	172
+username:      	Encompass
+oldpassword: 	tbp4437
+
+2015/9/27
+Beal Distributing  操作超时
+CustomerID:   	173
+username:      	enc04091
+oldpassword: 	tbp1910
+
+2015/9/27
+Bellavance Beverage Company, Incx  操作超时
+CustomerID:   	210
+username:      	Barry
+oldpassword: 	zxcv129
+
+2015/9/27
+Capitol Beverage Sales LP (MN)x  操作超时
+CustomerID:   	220
+username:      	Barry2
+oldpassword: 	dfY2444
+
+2015/9/30
+Flint Hills Beverage Manhattan:   has some Unkonwn errors.
+CustomerID:   	187
+username:      	enc91541
+oldpassword: 	xyz456
+
+2015/9/30
+Clarke Distributors Keene:  's password has expired and will be set a new as 'tbp8543'.
+CustomerID:   	184
+username:      	enc02864
+oldpassword: 	tbp250597
+
+2015/9/30
+Clarke Distributors GHousen:  's password has expired and will be set a new as 'tbp4593'.
+CustomerID:   	184
+username:      	enc64408
+oldpassword: 	tbp250597
+
+2015/9/30
+Clarke Distributors Keene:   add customer note sucessfully.
+CustomerID:   	184
+username:      	enc02864
+oldpassword: 	tbp8543
+
+2015/9/30
+Clarke Distributors GHousen:   add customer note sucessfully.
+CustomerID:   	184
+username:      	enc64408
+oldpassword: 	tbp4593
+
+2015/10/11
+Central Distributors Inc (TN) volunteer:  's password has expired and will be set a new as 'tbp8935'.
+CustomerID:   	197
+username:      	encompass8
+oldpassword: 	tbp250597
+
+2015/10/11
+Clare Rose  's password has expired and will be set a new as 'tbp4025'.
+CustomerID:   	202
+username:      	CRISupport
+oldpassword: 	tbp350355
+
+2015/10/11
+Central Distributors Inc (TN) volunteer:   add customer note sucessfully.
+CustomerID:   	197
+username:      	encompass8
+oldpassword: 	tbp8935
+
+2015/10/11
+Clare Rose   add customer note sucessfully.
+CustomerID:   	202
+username:      	CRISupport
+oldpassword: 	tbp4025
+
+2015/10/16
+Eagle Sales of the Black Hills Chamberlain  's password has expired and will be set a new as 'tbp1065'.
+CustomerID:   	195
+username:      	04020mk
+oldpassword: 	tbp250255
+
+2015/10/16
+Eagle Sales of the Black Hills Chamberlain   add customer note sucessfully.
+CustomerID:   	195
+username:      	04020mk
+oldpassword: 	tbp1065
+
+2015/10/19
+City Beverage Company, Inc  's password has expired and will be set a new as '8119735'.
+CustomerID:   	193
+username:      	11538
+oldpassword: 	811cty5
+
+2015/10/19
+City Beverage Company, Inc   add customer note sucessfully.
+CustomerID:   	193
+username:      	11538
+oldpassword: 	8119735
+
+2015/10/24
+A&B Distributors  操作超时
+CustomerID:   	236
+username:      	pp20359
+oldpassword: 	budweiser
+
+2015/10/25
+A&B Distributors  未能解析此远程名称: 'www.budnet.com'
+CustomerID:   	236
+username:      	pp20359
+oldpassword: 	budweiser
+
+2015/10/29
+C&L Distributing  's password has expired and will be set a new as 'nBR2844'.
+CustomerID:   	227
+username:      	ENC52250
+oldpassword: 	nBRx62
+
+( ⁼̴̀ .̫ ⁼̴́ )✧2015/11/3
+A&B Distributors  远程服务器返回错误: (406) 不可接受。
+CustomerID:   	236
+username:      	pp23559
+oldpassword: 	budweiser
+
+2015/11/10
+Magic City Beverage Co   has some Unkonwn errors.
+CustomerID:   	219
+username:      	BAK73360
+oldpassword: 	BK8173
+
+2015/11/10
+Bellavance Beverage Company, Incx  's password has expired and will be set a new as 'zxc2889'.
+CustomerID:   	210
+username:      	Barry
+oldpassword: 	zxcv129
+
+2015/11/10
+Bellavance Beverage Company, Incx   adds customer note failed.
+CustomerID:   	210
+username:      	Barry
+oldpassword: 	zxc2889
+
+2015/11/10
+A&B Distributors   has errors in anazling process.
+CustomerID:   	236
+username:      	pp20359
+oldpassword: 	budweiser
+
+2015/11/10
+A&B Distributors   has errors in anazling process.
+CustomerID:   	236
+username:      	pp23559
+oldpassword: 	budweiser
+
+2015/11/10
+King Beverage   has errors in anazling process.
+CustomerID:   	172
+username:      	Encompass
+oldpassword: 	tbp4437
+
+2015/11/10
+Beal Distributing   has errors in anazling process.
+CustomerID:   	173
+username:      	enc04091
+oldpassword: 	tbp1910
+
+2015/11/10
+Bellavance Beverage Company, Incx   has errors in anazling process.
+CustomerID:   	210
+username:      	Barry
+oldpassword: 	zxc2889
+
+2015/11/10
+Capitol Beverage Sales LP (MN)x   has errors in anazling process.
+CustomerID:   	220
+username:      	Barry2
+oldpassword: 	dfY2444
+
+2015/11/10
+Central Distributors Inc (TN) volunteer:   has errors in anazling process.
+CustomerID:   	197
+username:      	encompass8
+oldpassword: 	tbp8935
+
+2015/11/10
+Central Distributors Inc (TN) Central:   has errors in anazling process.
+CustomerID:   	197
+username:      	encompass54139
+oldpassword: 	tbp6998
+
+2015/11/10
+Clare Rose   has errors in anazling process.
+CustomerID:   	202
+username:      	CRISupport
+oldpassword: 	tbp4025
+
+2015/11/10
+City Beverage Company, Inc   has errors in anazling process.
+CustomerID:   	193
+username:      	11538
+oldpassword: 	8119735
+
+2015/11/10
+Clarke Distributors Keene:   has errors in anazling process.
+CustomerID:   	184
+username:      	enc02864
+oldpassword: 	tbp8543
+
+2015/11/10
+Clarke Distributors White Mountain:   has errors in anazling process.
+CustomerID:   	184
+username:      	dmarois
+oldpassword: 	pqrst1
+
+2015/11/10
+Clarke Distributors GHousen:   has errors in anazling process.
+CustomerID:   	184
+username:      	enc64408
+oldpassword: 	tbp4593
+
+2015/11/10
+C&L Distributing   has errors in anazling process.
+CustomerID:   	227
+username:      	ENC52250
+oldpassword: 	nBR2844
+
+2015/11/10
+Eagle Sales of the Black Hills  Rapid City   has errors in anazling process.
+CustomerID:   	195
+username:      	ds94073
+oldpassword: 	tbp250254
+
+2015/11/10
+Eagle Sales of the Black Hills Chamberlain   has errors in anazling process.
+CustomerID:   	195
+username:      	04020mk
+oldpassword: 	tbp1065
+
+2015/11/10
+Flint Hills Beverage Osage:   has errors in anazling process.
+CustomerID:   	187
+username:      	enc01563
+oldpassword: 	Smm8850
+
+2015/11/10
+Flint Hills Beverage Manhattan:   has errors in anazling process.
+CustomerID:   	187
+username:      	enc91541
+oldpassword: 	xyz3287
+
+2015/11/11
+Magic City Beverage Co   has some Unkonwn errors.
+CustomerID:   	219
+username:      	BAK73360
+oldpassword: 	BK8173
+
+2015/11/11
+North Florida Sales  's password has expired and will be set a new as 'tbp3115'.
+CustomerID:   	232
+username:      	enc70918
+oldpassword: 	tbp2357
+
+2015/11/11
+North Florida Sales   add customer note sucessfully.
+CustomerID:   	232
+username:      	enc70918
+oldpassword: 	tbp3115
+
+2015/11/12
+Magic City Beverage Co   has some Unkonwn errors.
+CustomerID:   	219
+username:      	BAK73360
+oldpassword: 	BK8173
+
+2015/11/12
+General Distributing  's password has expired and will be set a new as 'gnr1610'.
+CustomerID:   	241
+username:      	ENC24376
+oldpassword: 	gnr3229
+
+2015/11/12
+McDonald Distributing  's password has expired and will be set a new as '2184072'.
+CustomerID:   	218
+username:      	enc52223
+oldpassword: 	218164
+
+2015/11/12
+General Distributing   add customer note sucessfully.
+CustomerID:   	241
+username:      	ENC24376
+oldpassword: 	gnr1610
+
+2015/11/12
+McDonald Distributing   add customer note sucessfully.
+CustomerID:   	218
+username:      	enc52223
+oldpassword: 	2184072
+
+2015/11/18
+Magic City Beverage Co   has some Unkonwn errors.
+CustomerID:   	219
+username:      	BAK73360
+oldpassword: 	BK8173
+
+2015/11/18
+Beal Distributing  's password has expired and will be set a new as 'tbp4689'.
+CustomerID:   	173
+username:      	enc04091
+oldpassword: 	tbp1910
+
+2015/11/18
+Flint Hills Beverage Osage:  's password has expired and will be set a new as 'Smm4150'.
+CustomerID:   	187
+username:      	enc01563
+oldpassword: 	Smm8850
+
+2015/11/18
+Konrad Beverage Company  's password has expired and will be set a new as '53L7302'.
+CustomerID:   	223
+username:      	Kf22930
+oldpassword: 	53LKJHGFDS
+
+2015/11/18
+Beal Distributing   add customer note sucessfully.
+CustomerID:   	173
+username:      	enc04091
+oldpassword: 	tbp4689
+
+2015/11/18
+Flint Hills Beverage Osage:   add customer note sucessfully.
+CustomerID:   	187
+username:      	enc01563
+oldpassword: 	Smm4150
+
+2015/11/18
+Konrad Beverage Company   add customer note sucessfully.
+CustomerID:   	223
+username:      	Kf22930
+oldpassword: 	53L7302
+
+2015/11/18
+A&B Distributors   has errors in anazling process.
+CustomerID:   	236
+username:      	pp20359
+oldpassword: 	budweiser
+

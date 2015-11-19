@@ -1,0 +1,178 @@
+2015/7/15
+187	Flint Hills Beverage Manhattan:  has error in analizing jsondata.
+username:      	enc91541
+oldpassword: 	xyz123
+2015/7/15
+187	Flint Hills Beverage Manhattan:  has error in analizing jsondata.
+username:      	enc91541
+oldpassword: 	xyz123
+2015/7/15
+23  	A&B Distributors  has error in analizing jsondata.
+username:      	pp20359
+oldpassword: 	budweiser
+2015/7/15
+23  	A&B Distributors  has error in analizing jsondata.
+username:      	pp20359
+oldpassword: 	budweiser
+2015/7/15
+23  	A&B Distributors  has error in analizing jsondata.
+username:      	pp20359
+oldpassword: 	budweiser
+2015/7/15
+193	City Beverage Company, Inc  has error in analizing jsondata.
+username:      	11538
+oldpassword: 	811cty4
+2015/7/15
+195	Eagle Sales of the Black Hills   has error in analizing jsondata.
+username:      	04020mk
+oldpassword: 	tbp250254
+2015/7/17
+193	City Beverage Company, Inc  has error in analizing jsondata.
+username:      	11538
+oldpassword: 	811cty4
+2015/7/17
+195	Eagle Sales of the Black Hills   has error in analizing jsondata.
+username:      	04020mk
+oldpassword: 	tbp250254
+2015/7/17
+193	City Beverage Company, Inc  has error in analizing jsondata.
+username:      	11538
+oldpassword: 	811cty4
+2015/7/17
+195	Eagle Sales of the Black Hills   has error in analizing jsondata.
+username:      	04020mk
+oldpassword: 	tbp250254
+2015/7/20
+193	City Beverage Company, Inc  has error in analizing jsondata.
+username:      	11538
+oldpassword: 	811cty4
+2015/7/20
+195	Eagle Sales of the Black Hills   has expired and been changed by someone.
+username:      	04020mk
+oldpassword: 	tbp250254
+2015/7/20
+193	City Beverage Company, Inc  has error in analizing jsondata.
+username:      	11538
+oldpassword: 	811cty4
+
+2015/7/20
+193	City Beverage Company, Inc  has error in analizing jsondata.
+username:      	11538
+oldpassword: 	811cty4
+
+2015/7/20
+193	City Beverage Company, Inc  's password has expired and will be set a new.
+username:      	11538
+oldpassword: 	811cty4
+
+2015/7/20
+193	City Beverage Company, Inc  's password has expired and will be set a new.
+username:      	11538
+oldpassword: 	811cty4
+
+2015/7/20
+193	City Beverage Company, Inc  's password has expired and will be set a new.
+username:      	11538
+oldpassword: 	811cty4
+
+2015/7/20
+193	City Beverage Company, Inc  's password has expired and will be set a new as ' 8116025 '.
+username:      	11538
+oldpassword: 	811cty4
+
+2015/7/20
+193	City Beverage Company, Inc   has sent  new password sucessfully.
+username:      	11538
+oldpassword: 	811cty4
+
+2015/7/20
+193	City Beverage Company, Inc  's password has expired and will be set a new as ' 8116898 '.
+username:      	11538
+oldpassword: 	811cty4
+
+2015/7/20
+193	City Beverage Company, Inc   has sent  new password sucessfully.
+username:      	11538
+oldpassword: 	811cty4
+
+2015/7/20
+193	City Beverage Company, Inc  has expired and been changed by someone.
+username:      	11538
+oldpassword: 	8116898
+
+2015/7/20
+pp20359  has expired and been changed by someone.
+username:      	budweiser
+oldpassword: 	11
+
+2015/7/20
+pp20359  has expired and been changed by someone.
+username:      	budweiser
+oldpassword: 	11
+
+2015/7/20
+ds94073  has expired and been changed by someone.
+CustomerID:   	195	Eagle Sales of the Black Hills  Rapid City
+username:      	tbp250253
+oldpassword: 	Rapid City
+
+2015/7/20
+Eagle Sales of the Black Hills   操作超时
+CustomerID:   	195
+username:      	04020mk
+oldpassword: 	tbp250255
+
+2015/7/21
+C&L Distributing  's password is expired.
+CustomerID:   	227
+username:      	ENC52250
+oldpassword: 	nBRx6e
+
+2015/7/21
+C&L Distributing  's password is expired.
+CustomerID:   	227
+username:      	ENC52250
+oldpassword: 	nBRx6e
+
+2015/7/22
+C&L Distributing  's password is expired.
+CustomerID:   	227
+username:      	ENC52250
+oldpassword: 	nBRx6e
+
+2015/7/23
+C&L Distributing  's password is expired.
+CustomerID:   	227
+username:      	ENC52250
+oldpassword: 	nBRx6e
+
+2015/7/24
+C&L Distributing  's password is expired.
+CustomerID:   	227
+username:      	ENC52250
+oldpassword: 	nBRx6e
+
+2015/7/27
+C&L Distributing  's password is expired.
+CustomerID:   	227
+username:      	ENC52250
+oldpassword: 	nBRx6e
+
+2015/7/28
+C&L Distributing  's password is expired.
+CustomerID:   	227
+username:      	ENC52250
+oldpassword: 	nBRx6e
+
+2015/7/29
+C&L Distributing  's password is expired.
+CustomerID:   	227
+username:      	ENC52250
+oldpassword: 	nBRx6e
+
+2015/7/30
+C&L Distributing  's password is expired.
+CustomerID:   	227
+username:      	ENC52250
+oldpassword: 	nBRx6e
+

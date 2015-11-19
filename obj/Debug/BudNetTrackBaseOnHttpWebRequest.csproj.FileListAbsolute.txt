@@ -1,0 +1,11 @@
+C:\Users\马虎\Desktop\Applications\BudNetTrackBaseOnHttpWebRequest\bin\Debug\BudNetTrackBaseOnHttpWebRequest.exe.config
+C:\Users\马虎\Desktop\Applications\BudNetTrackBaseOnHttpWebRequest\bin\Debug\BudNetTrackBaseOnHttpWebRequest.exe
+C:\Users\马虎\Desktop\Applications\BudNetTrackBaseOnHttpWebRequest\bin\Debug\BudNetTrackBaseOnHttpWebRequest.pdb
+C:\Users\马虎\Desktop\Applications\BudNetTrackBaseOnHttpWebRequest\obj\Debug\BudNetTrackBaseOnHttpWebRequest.csprojResolveAssemblyReference.cache
+C:\Users\马虎\Desktop\Applications\BudNetTrackBaseOnHttpWebRequest\obj\Debug\BudNetTrackBaseOnHttpWebRequest.exe
+C:\Users\马虎\Desktop\Applications\BudNetTrackBaseOnHttpWebRequest\obj\Debug\BudNetTrackBaseOnHttpWebRequest.pdb
+C:\Users\29561\Desktop\BudNetTrackBaseOnHttpWebRequest\bin\Debug\BudNetTrackBaseOnHttpWebRequest.exe.config
+C:\Users\29561\Desktop\BudNetTrackBaseOnHttpWebRequest\obj\Debug\BudNetTrackBaseOnHttpWebRequest.exe
+C:\Users\29561\Desktop\BudNetTrackBaseOnHttpWebRequest\obj\Debug\BudNetTrackBaseOnHttpWebRequest.pdb
+C:\Users\29561\Desktop\BudNetTrackBaseOnHttpWebRequest\bin\Debug\BudNetTrackBaseOnHttpWebRequest.exe
+C:\Users\29561\Desktop\BudNetTrackBaseOnHttpWebRequest\bin\Debug\BudNetTrackBaseOnHttpWebRequest.pdb

@@ -1,0 +1,186 @@
+﻿2015/8/12
+A&B Distributors  无效的 JSON 基元: 。
+CustomerID:   	23
+username:      	pp20359
+oldpassword: 	budweiser
+
+2015/8/12
+A&B Distributors  无效的 JSON 基元: 。
+CustomerID:   	23
+username:      	pp23559
+oldpassword: 	budweiser
+
+2015/8/12
+King Beverage  无效的 JSON 基元: 。
+CustomerID:   	172
+username:      	Encompass
+oldpassword: 	tbp2502553
+
+2015/8/12
+Beal Distributing  无效的 JSON 基元: 。
+CustomerID:   	173
+username:      	enc04091
+oldpassword: 	tbp250257
+
+2015/8/12
+Bellavance Beverage Company, Incx  无效的 JSON 基元: 。
+CustomerID:   	210
+username:      	Barry
+oldpassword: 	zxcv128
+
+2015/8/12
+Capitol Beverage Sales LP (MN)x  无效的 JSON 基元: 。
+CustomerID:   	220
+username:      	Barry2
+oldpassword: 	dfYk3s3
+
+2015/8/12
+Central Distributors Inc (TN) volunteer:  无效的 JSON 基元: 。
+CustomerID:   	197
+username:      	encompass8
+oldpassword: 	tbp250597
+
+2015/8/12
+Central Distributors Inc (TN) Central:  无效的 JSON 基元: 。
+CustomerID:   	197
+username:      	encompass54139
+oldpassword: 	tbp250598
+
+2015/8/12
+Clare Rose  无效的 JSON 基元: 。
+CustomerID:   	202
+username:      	CRISupport
+oldpassword: 	tbp350355
+
+2015/8/12
+City Beverage Company, Inc  无效的 JSON 基元: 。
+CustomerID:   	193
+username:      	11538
+oldpassword: 	811cty5
+
+2015/8/12
+Clarke Distributors Keene:  无效的 JSON 基元: 。
+CustomerID:   	184
+username:      	enc02864
+oldpassword: 	tbp250597
+
+2015/8/12
+Clarke Distributors White Mountain:  无效的 JSON 基元: 。
+CustomerID:   	184
+username:      	dmarois
+oldpassword: 	pqrst2
+
+2015/8/12
+Clarke Distributors GHousen:  无效的 JSON 基元: 。
+CustomerID:   	184
+username:      	enc64408
+oldpassword: 	tbp250597
+
+2015/8/12
+C&L Distributing  无效的 JSON 基元: 。
+CustomerID:   	227
+username:      	ENC52250
+oldpassword: 	nBRx62
+
+2015/8/12
+Eagle Sales of the Black Hills  Rapid City  无效的 JSON 基元: 。
+CustomerID:   	195
+username:      	ds94073
+oldpassword: 	tbp250253
+
+2015/8/12
+Eagle Sales of the Black Hills   无效的 JSON 基元: 。
+CustomerID:   	195
+username:      	04020mk
+oldpassword: 	tbp250255
+
+2015/8/12
+Flint Hills Beverage Osage:  无效的 JSON 基元: 。
+CustomerID:   	187
+username:      	enc01563
+oldpassword: 	Smmr11
+
+2015/8/12
+Flint Hills Beverage Manhattan:  无效的 JSON 基元: 。
+CustomerID:   	187
+username:      	enc91541
+oldpassword: 	xyz456
+
+2015/8/12
+General Distributing  无效的 JSON 基元: 。
+CustomerID:   	241
+username:      	ENC24376
+oldpassword: 	gnrl2130
+
+2015/8/12
+Konrad Beverage Company  无效的 JSON 基元: 。
+CustomerID:   	223
+username:      	Kf22930
+oldpassword: 	32PYTRWQ
+
+2015/8/12
+Magic City Beverage Co  无效的 JSON 基元: 。
+CustomerID:   	219
+username:      	BAK73360
+oldpassword: 	BK1973
+
+2015/8/12
+McDonald Distributing  无效的 JSON 基元: 。
+CustomerID:   	218
+username:      	enc52223
+oldpassword: 	218219
+
+2015/8/12
+North Florida Sales  无效的 JSON 基元: 。
+CustomerID:   	232
+username:      	enc70918
+oldpassword: 	tbp250598
+
+2015/8/12
+Strathman Sales Company, Inc.  无效的 JSON 基元: 。
+CustomerID:   	188
+username:      	DM01583
+oldpassword: 	tbp250257
+
+2015/8/12
+A&B Distributors  无效的 JSON 基元: 。
+CustomerID:   	23
+username:      	pp20359
+oldpassword: 	budweiser
+
+2015/8/12
+A&B Distributors  无效的 JSON 基元: 。
+CustomerID:   	23
+username:      	pp23559
+oldpassword: 	budweiser
+
+2015/8/12
+King Beverage  无效的 JSON 基元: 。
+CustomerID:   	172
+username:      	Encompass
+oldpassword: 	tbp2502553
+
+2015/8/12
+Bellavance Beverage Company, Incx  has expired and been changed by someone.
+CustomerID:   	210
+username:      	Barry
+oldpassword: 	zxcv129
+
+2015/8/12
+General Distributing  's password is expired.
+CustomerID:   	241
+username:      	ENC24376
+oldpassword: 	gnrl2130
+
+2015/8/12
+McDonald Distributing  's password is expired.
+CustomerID:   	218
+username:      	enc52223
+oldpassword: 	218219
+
+2015/8/12
+North Florida Sales  's password is expired.
+CustomerID:   	232
+username:      	enc70918
+oldpassword: 	tbp250598
+
