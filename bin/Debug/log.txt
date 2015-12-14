@@ -598,3 +598,63 @@ CustomerID:   	236
 username:      	pp20359
 oldpassword: 	budweiser
 
+2015/12/9
+Clarke Distributors White Mountain:   has some Unkonwn errors.
+CustomerID:   	184
+username:      	dmarois
+oldpassword: 	pqrst1
+
+2015/12/9
+Konrad Beverage Company   has some Unkonwn errors.
+CustomerID:   	223
+username:      	Kf22930
+oldpassword: 	53L7302
+
+2015/12/14
+Clarke Distributors White Mountain:   has some Unkonwn errors.
+CustomerID:   	184
+username:      	dmarois
+oldpassword: 	pqrst1
+
+2015/12/14
+Konrad Beverage Company   has some Unkonwn errors.
+CustomerID:   	223
+username:      	Kf22930
+oldpassword: 	53L7302
+
+2015/12/14
+King Beverage  's password has expired and will be set a new as 'tbp6749'.
+CustomerID:   	172
+username:      	Encompass
+oldpassword: 	tbp4437
+
+2015/12/14
+Eagle Sales of the Black Hills  Rapid City  's password has expired and will be set a new as 'tbp1526'.
+CustomerID:   	195
+username:      	ds94073
+oldpassword: 	tbp250254
+
+2015/12/14
+Strathman Sales Company, Inc.  's password has expired and will be set a new as 'tbp2574'.
+CustomerID:   	188
+username:      	DM01583
+oldpassword: 	tbp6694
+
+2015/12/14
+King Beverage   add customer note sucessfully.
+CustomerID:   	172
+username:      	Encompass
+oldpassword: 	tbp6749
+
+2015/12/14
+Eagle Sales of the Black Hills  Rapid City   add customer note sucessfully.
+CustomerID:   	195
+username:      	ds94073
+oldpassword: 	tbp1526
+
+2015/12/14
+Strathman Sales Company, Inc.   add customer note sucessfully.
+CustomerID:   	188
+username:      	DM01583
+oldpassword: 	tbp2574
+
