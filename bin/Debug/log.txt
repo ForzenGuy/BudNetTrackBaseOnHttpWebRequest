@@ -658,3 +658,39 @@ CustomerID:   	188
 username:      	DM01583
 oldpassword: 	tbp2574
 
+2015/12/14
+A&B Distributors   has errors in anazling process.
+CustomerID:   	236
+username:      	pp20359
+oldpassword: 	budweiser
+
+2015/12/14
+A&B Distributors   has errors in anazling process.
+CustomerID:   	236
+username:      	pp23559
+oldpassword: 	budweiser
+
+2015/12/14
+Advance Beverage   has errors in anazling process.
+CustomerID:   	263
+username:      	EvanL
+oldpassword: 	xyz50410
+
+2015/12/14
+A&B Distributors   has errors in anazling process.
+CustomerID:   	236
+username:      	pp20359
+oldpassword: 	budweiser
+
+2015/12/14
+A&B Distributors   has errors in anazling process.
+CustomerID:   	236
+username:      	pp23559
+oldpassword: 	budweiser
+
+2015/12/15
+Beal Distributing  无法连接到远程服务器
+CustomerID:   	173
+username:      	enc04091
+oldpassword: 	tbp4689
+
