@@ -694,3 +694,39 @@ CustomerID:   	173
 username:      	enc04091
 oldpassword: 	tbp4689
 
+2015/12/18
+Capitol Beverage Sales LP (MN)x  's password has expired and will be set a new as 'dfY3872'.
+CustomerID:   	220
+username:      	Barry2
+oldpassword: 	dfY2444
+
+2015/12/18
+Central Distributors Inc (TN) Central:  's password has expired and will be set a new as 'tbp9476'.
+CustomerID:   	197
+username:      	encompass54139
+oldpassword: 	tbp6998
+
+2015/12/18
+Flint Hills Beverage Manhattan:  's password has expired and will be set a new as 'xyz3766'.
+CustomerID:   	187
+username:      	enc91541
+oldpassword: 	xyz3287
+
+2015/12/18
+Capitol Beverage Sales LP (MN)x   add customer note sucessfully.
+CustomerID:   	220
+username:      	Barry2
+oldpassword: 	dfY3872
+
+2015/12/18
+Central Distributors Inc (TN) Central:   add customer note sucessfully.
+CustomerID:   	197
+username:      	encompass54139
+oldpassword: 	tbp9476
+
+2015/12/18
+Flint Hills Beverage Manhattan:   add customer note sucessfully.
+CustomerID:   	187
+username:      	enc91541
+oldpassword: 	xyz3766
+
