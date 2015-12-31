@@ -281,41 +281,75 @@ namespace BudNetTrackBaseOnHttpWebRequest
         {
             var sr = new StringReader(source);
             var result = new StringBuilder();
+            var tempResult = new StringBuilder();
+            var resultGreen = new StringBuilder();
+            var resultRed = new StringBuilder();
             string singleRecord = "";
             result.AppendLine("<html><body><div><table>");
             while (!(sr.Peek() == -1))
             {
                 singleRecord = sr.ReadLine();
-                if (singleRecord == "")
-                    result.AppendLine("<tr><td>&nbsp;</td></tr>");
-
-                else
+                var tempArray = singleRecord.Split('^');
+                if (tempArray[0] == "Company")
                 {
-                    var tempArray = singleRecord.Split('^');
-                    if (tempArray[0] == "Company")
-                        result.AppendLine("<tr><td colspan=2>" + tempArray[1] + "</td></tr>");
-                    else if (tempArray[0] == "Location")
+                    if (tempResult.ToString().Contains("red"))
                     {
-                        var tempArray2 = tempArray[1].Split('%');
-                        result.AppendLine("<tr><td colspan=2>Location:" + tempArray2[0] + "&nbps;&nbps;" + tempArray2[1] + "</td></tr> ");
-
+                        resultRed.AppendLine(tempResult.ToString());
                     }
                     else
                     {
-                        count++;
-                        result.AppendLine("<tr><td>" + tempArray[0] + "</td>");
-                        if (tempArray[1] == "green")
-                            result.AppendLine("<td><image src='green.gif'/></td></tr>");
-                        else if (tempArray[1] == "yellow")
-                            result.AppendLine("<td><image src='yellow.gif'/></td></tr>");
-                        else if (tempArray[1] == "red")
-                            result.AppendLine("<td><image src='red.gif'/></td></tr>");
+                        resultGreen.AppendLine(tempResult.ToString());
                     }
+                    tempResult.Clear();
+                    tempResult.AppendLine("<tr><td colspan=3>" + tempArray[1] + "</td></tr>");
+                    count++;
+                }
+
+                else if (tempArray[0] == "Location")
+                {
+                    var tempArray2 = tempArray[1].Split('%');
+                    tempResult.AppendLine("<tr><td>&nbsp;</td></tr>");
+                    tempResult.AppendLine("<tr><td colspan=3>Location:" + tempArray2[0] + "&nbsp;&nbsp;" + tempArray2[1] + "</td></tr> ");
+                    count++;
+                }
+                else if (tempArray[0] == "Group")
+                {
+                    tempResult.AppendLine("<tr ><td colspan=3 ><b>" + tempArray[1] + "</b></td></tr>");
+                }
+                else if (tempArray[0] == "SingleMetric")
+                {
+                    var recordsArray = singleRecord.Split('^');
+                    tempResult.AppendLine("<td>&nbsp;&nbsp;&nbsp;" + recordsArray[1] + "</td>");
+                    if (recordsArray[2] == "green")
+                        tempResult.AppendLine("<td><image src='green.gif'/></td>");
+                    else if (recordsArray[2] == "yellow")
+                        tempResult.AppendLine("<td><image src='yellow.gif'/></td>");
+                    else if (recordsArray[2] == "red")
+                        tempResult.AppendLine("<td><image src='red.gif'/></td>");
+                    tempResult.AppendLine("<td>&nbsp;" + recordsArray[3] + "</td>");
+                }
+                else
+                {
+                    tempResult.AppendLine("<tr><td>&nbsp;</td></tr>");
                 }
 
             }
+
+
+            if (tempResult.ToString().Contains("red"))
+            {
+                resultRed.AppendLine(tempResult.ToString());
+            }
+            else
+            {
+                resultGreen.AppendLine(tempResult.ToString());
+            }
+            tempResult.Clear();
+
+            result.AppendLine(resultRed.ToString());
+            result.AppendLine(resultGreen.ToString());
             result.AppendLine("<tr></tr>");
-            result.AppendLine("<tr><td>Count</td><td>" + count / 5 + "</td></tr>");
+            result.AppendLine("<tr><td>Count</td><td>" + count + "</td></tr>");
             result.AppendLine("</table></div>");
             result.AppendLine("</body></html>");
             return result.ToString();
@@ -613,6 +647,7 @@ namespace BudNetTrackBaseOnHttpWebRequest
         {
             System.Web.Script.Serialization.JavaScriptSerializer jss = new System.Web.Script.Serialization.JavaScriptSerializer();
             Root r;
+            var result = "";
             try
             {
                 r = jss.Deserialize<Root>(jsonData);
@@ -621,36 +656,17 @@ namespace BudNetTrackBaseOnHttpWebRequest
             {
                 throw (new AnalizingException());
             }
-
-            var result = new StringBuilder();
-            var htmlResult = new StringBuilder();
-            var currenUserColor = "green";
+            result += "WholesalerID^" + r.d.WholesalerId + "\n";
             foreach (var item in r.d.Groups)
             {
-                var currentColor = "green";
-
+                result += "Group^" + item.name + "\n";
                 foreach (var singleCircle in item.Metrics)
                 {
-                    if (singleCircle.ImageCssClass == "yellow" && currentColor != "red")
-                    {
-                        currentColor = "yellow";
-                        if (currenUserColor != "red")
-                            currenUserColor = "yellow";
-                    }
-                    else if (singleCircle.ImageCssClass == "red")
-                    {
-                        currenUserColor = "red";
-                        currentColor = "red";
-                    }
+                    result += "SingleMetric^" + singleCircle.Name + "^" + singleCircle.ImageCssClass + "^" + singleCircle.Value + "\n";
                 }
-                result.AppendLine(item.name.Substring(0, 5) + "\t is\t  " + currentColor + "\t");
-                htmlResult.AppendLine(item.name + "^" + currentColor);
 
             }
-            result.AppendLine("Final \t is\t  " + currenUserColor + "\t");
-            htmlResult.AppendLine("Final^" + currenUserColor);
-            result.AppendLine("");
-            return htmlResult.ToString();
+            return result;
         }
         public void SetPost(byte[] data, string url = "", CookieCollection cookie = null)
         {

@@ -730,3 +730,42 @@ CustomerID:   	187
 username:      	enc91541
 oldpassword: 	xyz3766
 
+2015/12/25
+Clarke Distributors Keene:  's password has expired and will be set a new as 'tbp9043'.
+CustomerID:   	184
+username:      	enc02864
+oldpassword: 	tbp8543
+
+2015/12/25
+Clarke Distributors GHousen:  's password has expired and will be set a new as 'tbp1228'.
+CustomerID:   	184
+username:      	enc64408
+oldpassword: 	tbp4593
+
+2015/12/25
+A&B Distributors  操作超时
+CustomerID:   	236
+username:      	pp23559
+oldpassword: 	budweiser
+
+2015/12/25
+操作超时
+
+2015/12/29
+Clarke Distributors GHousen:   has some Unkonwn errors.
+CustomerID:   	184
+username:      	enc64408
+oldpassword: 	tbp4593
+
+2015/12/30
+Clarke Distributors GHousen:   has some Unkonwn errors.
+CustomerID:   	184
+username:      	enc64408
+oldpassword: 	tbp4593
+
+2015/12/31
+Clarke Distributors GHousen:   has some Unkonwn errors.
+CustomerID:   	184
+username:      	enc64408
+oldpassword: 	tbp4593
+
